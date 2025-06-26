@@ -1,4 +1,4 @@
-#Generative artificial intelligence for discovering new molecules and materials
+# Generative artificial intelligence for discovering new molecules and materials
 
 
 The large chemical and structural diversity of materials presents significant challenges in
